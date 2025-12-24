@@ -21,7 +21,6 @@
 - [State Management](#state-management)
 - [Firebase Integration](#firebase-integration)
 - [API Reference](#api-reference)
-- [Troubleshooting](#troubleshooting)
 
 ## 🎯 Overview
 
